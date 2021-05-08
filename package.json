@@ -1,0 +1,24 @@
+{
+  "name": "single_page_app_rym",
+  "version": "1.0.0",
+  "description": "Single Page Aplicattion a cerca de la api de Rick and Morty",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --open --mode development"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Juan Manuel Patiño valencia",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.14.0",
+    "babel-loader": "^8.2.2",
+    "html-webpack-plugin": "^5.3.1",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "wepback": "^1.0.0"
+  }
+}
