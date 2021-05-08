@@ -3,7 +3,7 @@ const header = () => {
       <div class="Header-main">
         <div class="Header-logo">
           <h1>
-            <a href="/">
+            <a href="https://masync1.github.io/spa_vanila_rick_and_morty/dist/index.html">
               100tifi.co
             </a>
           </h1>
